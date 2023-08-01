@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TiendaKotlin</string>
+    <string name="canal_tienda">CanalTienda</string>
+    <string name="canal_notificaciones">CanaldeNotificacionesTiendaCBA</string>
+    #Flores
+    <string name="astromelias">La Astromelia simboliza la amistad duradera, y cada uno de sus seis pétalos representan una faceta muy importante de la amistad.</string>
+    <string name="rosas">También es un símbolo de simpatía, franqueza y amabilidad. Cuanto más intenso el color rosado de la flor, más intenso el sentimiento.</string>
+    <string name="tulipanes">El tulipán es un símbolo de amor sincero. Es una flor increíblemente romántica que al regalarla expresas enamoramiento, pasión, amor incondicional, amor puro, etc.</string>
+    <string name="girasoles">El girasol es el símbolo del Sol y simboliza el amor y la admiración. Pero también la felicidad, la vitalidad, el positivismo y la energía.</string>
+    <string name="cactus"> Planta de la familia de las cactáceas, de tallo globoso con espinas, propia de climas desérticos.</string>
+    <string name="orquideas">Representan la belleza y la perfección pero, también, el amor entendido de maneras muy distintas.</string>
+    #Frutas
+    <string name="naranja">La naranja se denomina cítrica por su contenido en ácido cítrico, que le confiere el sabor amargo.</string>
+    <string name="pera">La pera es una fruta jugosa, carnosa, de diferente tamaño, sabor y color (del verde al amarillo, al rojo, hasta el color castaña), según las variedades de pera cultivadas.</string>
+    <string name="manzana">Se denomina manzana al fruto producido por el manzano. Este es un árbol del grupo de las rosáceas, con ramas de gran grosor, hojas simples y flores en umbela.</string>
+    <string name="mandarina">Se cree que su nombre se debe al color de los trajes que utilizaban los mandarines, gobernantes de la antigua China.</string>
+    <string name="uvas">Desde la Antigüedad la uva es un símbolo de fertilidad y maternidad, y probablemente sea el atributo más lleno de Gracia de todos los que se utilizan para la Madre de Dios.</string>
+    <string name="fresa">Planta herbácea de tallos rastreros, hojas dentadas, divididas en tres segmentos, flores blancas o amarillentas y fruto comestible.</string>
+    #Lacteos
+    <string name="arequipe">Arequipe nació de Arequipa. Así, por su uso reiterado, surgió la palabra que designó el dulce e inmortalizó la ciudad de su proveniencia.</string>
+    <string name="queso">Alimento sólido que se obtiene por maduración de la cuajada de la leche una vez eliminado el suero; sus diferentes variedades dependen del origen de la leche empleada.</string>
+    <string name="leche">Sustancia líquida y blanca que segregan las mamas de las hembras de los mamíferos para alimentar a sus crías y que está constituida por caseína, lactosa, sales inorgánicas, glóbulos de grasa suspendidos y otras sustancias.</string>
+    <string name="yogurt">Producto lácteo obtenido mediante reducción por evaporación y fermentación bacteriana de la leche.</string>
+    <string name="cuajada">Producto lácteo que se forma al separarse una parte de la leche del suero por acción del calor, del cuajo o de los ácidos.</string>
+    <string name="mantequilla">Grasa comestible que se obtiene agitando o batiendo la crema de la leche de vaca y es de consistencia blanda, color amarillento y sabor suave.</string>
+    #Verduras
+    <string name="zanahoria">La zanahoria es una planta herbácea de hojas muy divididas, flores blancas y fruto seco y comprimido.</string>
+    <string name="tomate">Fruto de esta planta, comestible, de piel roja, verde o amarilla, lisa y brillante, pulpa muy jugosa y semillas amarillas y planas.</string>
+    <string name="lechuga">Planta hortícola de hojas grandes, verdes, enteras o dentadas, las inferiores agrupadas en roseta, de cuyo centro nace un tallo cilíndrico ramificado que lleva en el ápice numerosos capítulos amarillos y fruto seco, gris con una única semilla.</string>
+    <string name="pimenton">El pimenton es un polvo (vegetal solido) que se obtiene al moler pimientos rojos secos y que sirve para condimentar comidas.</string>
+    <string name="cebolla">Planta hortícola de tallo hueco, fusiforme e hinchado hacia la base, hojas largas y estrechas, flores blancas o rosadas, agrupadas en umbelas, fruto en cápsulas muy pequeñas, lleno de semillas diminutas, y bulbo comestible.</string>
+    <string name="aguacate">Fruto de este árbol, de forma parecida a una pera, corteza verde y rugosa, pulpa suave y mantecosa y semilla grande en el centro.tomate</string>
+    #VerMas
+    <string name="huevos">Cuerpo redondo u ovalado, con una membrana o cáscara exterior, que ponen las hembras de algunos animales y que contiene en su interior el embrión de un nuevo ser y el alimento necesario para que crezca.</string>
+    <string name="gulupa">La gulupa es una mutación de la fruta maracuyá y es conocida por sus grandes beneficios para la salud: Reduce los niveles de estrés. Ayuda con el insomnio. Disminuye la tensión arterial.</string>
+    #Contenido
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="estudio">El SENA ofrece la mejor formación técnica y tecnológica de Colombia. A través de distintas carreras y cursos complementarios, usted podrá desempeñar oficios y ocupaciones que requieren los sectores productivos del país.</string>
+    <string name="bilinguismo">El Programa de Bilingüismo del SENA es la respuesta de la Entidad a los requerimientos del sector productivo en cuanto a la formación de sus futuros trabajadores en una lengua extranjera o segunda lengua, que les permita un mejor desempeño laboral, aumentando la competitividad y calidad del servicio de sus empresas en comparación con sus pares a nivel mundial.</string>
+    <string name="titulacion">Es un programa del Gobierno Nacional liderado por el SENA y el Ministerio de Educación, que permite a los estudiantes de la Educación Media graduarse con dos títulos: el primero que los acredita como bachilleres y el segundo como técnicos del SENA, el cual permite fortalecer sus competencias laborales y ofrece oportunidades en el sector productivo del país.</string>
+    <string name="agrosena">AgroSena Estrategia que fortalece los procesos de formación profesional en la ruralidad Colombiana a través de actividades de extensión agropecuaria.</string>
+    <string name="tecnoparque">Es un programa de innovación tecnológica del Servicio Nacional de Aprendizaje (Sena) dirigida a todos los colombianos de manera gratuita, que actúa como acelerador para el desarrollo de proyectos de I+D+i (Investigación + Desarrollo + innovación), materializados en prototipos funcionales por medio del apoyo de un equipo multidisciplinario especializado y con amplia experiencia en el acompañamiento de proyectos.</string>
+
+    <!--    cards-->
+    <string name="clubs">Clubs CBA</string>
+    <string name="women_club">Women\'s \n Club</string>
+    <string name="all_levels">All Levels</string>
+    <string name="events">2 Cupos Disponibles</string>
+</resources>
